@@ -1,0 +1,230 @@
+======================================================================
+          CATALOGUE DES FICHIERS PDF - ALLOSCHOOL (PDFs Only)
+======================================================================
+
+[Logique mathématique]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Logique mathématique - Cours 1 - pdf1/143
+  • [Succès] Logique mathématique - Résumé de cours 1 - pdf2/143
+  • [Succès] Logique mathématique - Cours et exercices corrigés - pdf3/143
+  • [Succès] Raisonnement par récurrence - pdf4/143
+  • [Succès] Logique mathématique - Cours (FR) - pdf5/143
+
+-Exercices:
+  • [Succès] Logique mathématique - Série d'exercices 1 - pdf6/143
+  • [Succès] Logique mathématique - Corrigé série d'exercices 1 - pdf7/143
+  • [Succès] Logique mathématique - Exercices corrigés 1 - pdf8/143
+  • [Succès] Logique mathématique - Exercices non corrigés 1 - pdf9/143
+  • [Succès] Logique mathématique - Exercices non corrigés 2 - pdf10/143
+  • [Succès] Logique mathématique - Exercices non corrigés 3 - pdf11/143
+  • [Succès] Logique mathématique - Série d'exercices (FR) - pdf12/143
+  • [Succès] Logique mathématique - Corrigé série d'exercices (FR) - pdf13/143
+
+
+[Généralités sur les fonctions]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Généralités sur les fonctions - Cours 1 - pdf14/143
+  • [Succès] Généralités sur les fonctions - Résumé de cours 1 - pdf15/143
+  • [Succès] Généralités sur les fonctions - Cours et exercices corrigés - pdf16/143
+  • [Succès] Généralités sur les fonctions - Cours (FR) - pdf17/143
+
+-Exercices:
+  • [Succès] Généralités sur les fonctions - Série d'exercices 1 - pdf18/143
+  • [Succès] Généralités sur les fonctions - Corrigé série d'exercices 1 - pdf19/143
+  • [Succès] Généralités sur les fonctions - Exercices non corrigés 1 - pdf20/143
+  • [Succès] Généralités sur les fonctions - Exercices non corrigés 2 - pdf21/143
+  • [Succès] Généralités sur les fonctions - Exercices non corrigés (FR) - pdf22/143
+
+
+[Le barycentre dans le plan]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Le barycentre dans le plan - Cours 1 - pdf23/143
+  • [Succès] Le barycentre dans le plan - Résumé de cours 1 - pdf24/143
+  • [Succès] Le barycentre dans le plan - Cours et exercices corrigés - pdf25/143
+  • [Succès] Le barycentre dans le plan - Cours (FR) - pdf26/143
+
+-Exercices:
+  • [Succès] Le barycentre dans le plan - Série d'exercices 1 - pdf27/143
+  • [Succès] Le barycentre dans le plan - Corrigé série d'exercices 1 - pdf28/143
+  • [Succès] Le barycentre dans le plan - Série d'exercices 2 - pdf29/143
+  • [Succès] Le barycentre dans le plan - Corrigé série d'exercices 2 - pdf30/143
+  • [Succès] Le barycentre dans le plan - Exercices non corrigés 1 - pdf31/143
+  • [Succès] Le barycentre dans le plan - Exercices non corrigés 2 - pdf32/143
+  • [Succès] Le barycentre dans le plan - Série d'exercices (FR) - pdf33/143
+  • [Succès] Le barycentre dans le plan - Corrigé série d'exercices (FR) - pdf34/143
+
+
+[Le produit scalaire et ses applications]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Le produit scalaire dans le plan - Cours 1 - pdf35/143
+  • [Succès] Le produit scalaire dans le plan - Résumé de cours 1 - pdf36/143
+  • [Succès] Le produit scalaire dans le plan - Résumé de cours 2 - pdf37/143
+  • [Succès] Le produit scalaire dans le plan - Cours et exercices corrigés - pdf38/143
+  • [Succès] Étude analytique du cercle - Résumé de cours 1 - pdf39/143
+  • [Succès] Étude analytique du cercle - Cours et exercices corrigés - pdf40/143
+  • [Succès] Le produit scalaire - Cours (FR) - pdf41/143
+  • [Succès] Applications du produit scalaire - Cours (FR) - pdf42/143
+
+-Exercices:
+  • [Succès] Le produit scalaire dans le plan - Exercices corrigés 1 - pdf43/143
+  • [Succès] Le produit scalaire dans le plan - Exercices non corrigés 1 - pdf44/143
+  • [Succès] Le produit scalaire dans le plan - Exercices non corrigés 2 - pdf45/143
+  • [Succès] Étude analytique du cercle - Série d'exercices 1 - pdf46/143
+  • [Succès] Étude analytique du cercle - Corrigé série d'exercices 1 - pdf47/143
+  • [Succès] Étude analytique du cercle - Exercices non corrigés 1 - pdf48/143
+  • [Succès] Le produit scalaire dans le plan - Exercices corrigés (FR) - pdf49/143
+
+
+[Les suites numériques]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Les suites numériques - Cours 1 - pdf50/143
+  • [Succès] Les suites numériques - Résumé de cours 1 - pdf51/143
+  • [Succès] Les suites numériques - Résumé de cours 2 - pdf52/143
+  • [Succès] Les suites numériques - Cours et exercices corrigés - pdf53/143
+  • [Succès] Suites arithmétiques et géométriques - Résumé de cours - pdf54/143
+  • [Succès] Les suites numériques - Cours (FR) - pdf55/143
+
+-Exercices:
+  • [Succès] Les suites numériques - Série d'exercices 1 - pdf56/143
+  • [Succès] Les suites numériques - Corrigé série d'exercices 1 - pdf57/143
+  • [Succès] Les suites numériques - Série d'exercices 2 - pdf58/143
+  • [Succès] Les suites numériques - Corrigé série d'exercices 2 - pdf59/143
+  • [Succès] Les suites numériques - Série d'exercices (FR) - pdf60/143
+  • [Succès] Les suites numériques - Corrigé série d'exercices (FR) - pdf61/143
+  • [Succès] Les suites numériques - Exercices non corrigés 1 - pdf62/143
+  • [Succès] Les suites numériques - Exercices non corrigés 2 - pdf63/143
+
+
+[Calcul trigonométrique]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Calcul trigonométrique - Cours 1 - pdf64/143
+  • [Succès] Calcul trigonométrique - Résumé de cours 1 - pdf65/143
+  • [Succès] Calcul trigonométrique - Résumé de cours 2 - pdf66/143
+  • [Succès] Calcul trigonométrique - Cours et exercices corrigés - pdf67/143
+  • [Succès] Formulaire de trigonométrie - pdf68/143
+  • [Succès] Trigonométrie - Cours (FR) - pdf69/143
+
+-Exercices:
+  • [Succès] Calcul trigonométrique - Série d'exercices 1 - pdf70/143
+  • [Succès] Calcul trigonométrique - Corrigé série d'exercices 1 - pdf71/143
+  • [Succès] Trigonométrie - Exercices non corrigés (FR) - pdf72/143
+
+[Examens et Devoirs]
+----------------------------------------------------------------------
+  • [Succès] Devoir 1 Modèle 1 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf73/143
+  • [Succès] Devoir 1 Modèle 2 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf74/143
+  • [Succès] Devoir 1 Modèle 3 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf75/143
+  • [Succès] Devoir 1 Modèle 4 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf76/143
+  • [Succès] Devoir 1 Modèle 5 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf77/143
+  • [Succès] Devoir 1 Modèle 6 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf78/143
+  • [Succès] Devoir 1 Modèle 7 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf79/143
+  • [Succès] Devoir 1 Modèle 8 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf80/143
+  • [Succès] Devoir 2 Modèle 1 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf81/143
+  • [Succès] Devoir 2 Modèle 2 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf82/143
+  • [Succès] Devoir 2 Modèle 3 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf83/143
+  • [Succès] Devoir 2 Modèle 4 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf84/143
+  • [Succès] Devoir 2 Modèle 5 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf85/143
+  • [Succès] Devoir 2 Modèle 6 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf86/143
+  • [Succès] Devoir 3 Modèle 1 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf87/143
+  • [Succès] Devoir 3 Modèle 1 - Mathématiques 1er BAC Sciences Exp Semestre 1 (Corrigé) - pdf88/143
+  • [Succès] Devoir 3 Modèle 2 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf89/143
+  • [Succès] Devoir 3 Modèle 3 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf90/143
+  • [Succès] Devoir 3 Modèle 4 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf91/143
+  • [Succès] Devoir 3 Modèle 5 - Mathématiques 1er BAC Sciences Exp Semestre 1 - pdf92/143
+
+
+[La rotation dans le plan]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] La rotation dans le plan - Résumé de cours 1 - pdf93/143
+  • [Succès] La rotation dans le plan - Cours et exercices corrigés - pdf94/143
+  • [Succès] La rotation dans le plan - Cours (FR) - pdf95/143
+
+-Exercices:
+  • [Succès] La rotation dans le plan - Série d'exercices 1 - pdf96/143
+  • [Succès] La rotation dans le plan - Corrigé série d'exercices 1 - pdf97/143
+
+
+[Les limites d’une fonction]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Les limites d’une fonction - Résumé de cours 1 - pdf98/143
+  • [Succès] Les limites d’une fonction - Cours et exercices corrigés - pdf99/143
+  • [Succès] Branches infinies - Résumé de cours - pdf100/143
+  • [Succès] Les limites d’une fonction - Cours (FR) - pdf101/143
+
+-Exercices:
+  • [Succès] Les limites d’une fonction - Série d'exercices 1 - pdf102/143
+  • [Succès] Les limites d’une fonction - Corrigé série d'exercices 1 - pdf103/143
+  • [Succès] Les limites d’une fonction - Série d'exercices (FR) - pdf104/143
+  • [Succès] Les limites d’une fonction - Corrigé série d'exercices (FR) - pdf105/143
+
+
+[La dérivation]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] La dérivation - Cours 1 - pdf106/143
+  • [Succès] La dérivation - Résumé de cours 1 - pdf107/143
+  • [Succès] La dérivation - Cours et exercices corrigés - pdf108/143
+  • [Succès] Formulaire de dérivées - pdf109/143
+  • [Succès] La dérivation - Cours (FR) - pdf110/143
+
+-Exercices:
+  • [Succès] La dérivation - Série d'exercices 1 - pdf111/143
+  • [Succès] La dérivation - Corrigé série d'exercices 1 - pdf112/143
+  • [Succès] La dérivation - Exercices non corrigés 1 - pdf113/143
+  • [Succès] La dérivation - Exercices corrigés (FR) - pdf114/143
+
+
+[Étude des fonctions numériques]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Comportement d’une fonction - Résumé de cours - pdf115/143
+  • [Succès] Étude des fonctions numériques - Cours et exercices corrigés - pdf116/143
+  • [Succès] Étude des fonctions numériques - Résumé de cours 1 - pdf117/143
+  • [Succès] Étude des fonctions numériques - Cours (FR) - pdf118/143
+
+-Exercices:
+  • [Succès] Étude des fonctions numériques - Série d'exercices 1 - pdf119/143
+  • [Succès] Étude des fonctions numériques - Corrigé série d'exercices 1 - pdf120/143
+  • [Succès] Étude des fonctions numériques - Exercices non corrigés 1 - pdf121/143
+  • [Succès] Étude des fonctions numériques - Exercices corrigés (FR) - pdf122/143
+
+
+[Géométrie dans l’espace]
+----------------------------------------------------------------------
+-Cours:
+  • [Succès] Vecteurs de l’espace - Cours 1 - pdf123/143
+  • [Succès] Vecteurs de l’espace - Résumé de cours 1 - pdf124/143
+  • [Succès] Vecteurs de l’espace - Cours et exercices corrigés - pdf125/143
+  • [Succès] Vecteurs de l’espace - Cours (FR) - pdf126/143
+  • [Succès] Géométrie analytique de l’espace - Cours 1 - pdf130/143
+  • [Succès] Géométrie analytique de l’espace - Résumé de cours 1 - pdf131/143
+  • [Succès] Géométrie analytique de l’espace - Cours et exercices corrigés - pdf132/143
+  • [Succès] Droites et plans dans l’espace - Cours (FR) - pdf133/143
+
+-Exercices:
+  • [Succès] Vecteurs de l’espace - Série d'exercices 1 - pdf127/143
+  • [Succès] Vecteurs de l’espace - Corrigé série d'exercices 1 - pdf128/143
+  • [Succès] Vecteurs de l’espace - Exercices non corrigés 1 - pdf129/143
+  • [Succès] Géométrie analytique de l’espace - Série d'exercices 1 - pdf134/143
+  • [Succès] Géométrie analytique de l’espace - Corrigé série d'exercices 1 - pdf135/143
+  • [Succès] Droites et plans dans l’espace - Série d'exercices (FR) - pdf136/143
+  • [Succès] Droites et plans dans l’espace - Corrigé série d'exercices (FR) - pdf137/143
+
+[Examens et Devoirs]
+----------------------------------------------------------------------
+  • [Succès] Devoir 1 Modèle 1 - Mathématiques 1er BAC Sciences Exp Semestre 2 - pdf138/143
+  • [Succès] Devoir 1 Modèle 2 - Mathématiques 1er BAC Sciences Exp Semestre 2 - pdf139/143
+  • [Succès] Devoir 1 Modèle 3 - Mathématiques 1er BAC Sciences Exp Semestre 2 - pdf140/143
+  • [Succès] Devoir 2 Modèle 1 - Mathématiques 1er BAC Sciences Exp Semestre 2 - pdf141/143
+  • [Succès] Devoir 2 Modèle 2 - Mathématiques 1er BAC Sciences Exp Semestre 2 - pdf142/143
+  • [Succès] Devoir 3 Modèle 1 - Mathématiques 1er BAC Sciences Exp Semestre 2 - pdf143/143
+
+
